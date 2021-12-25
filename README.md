@@ -4,7 +4,7 @@ First, extract features with openSilme [1] using emolarge config and save its re
 Then, run main.m (Matlab file) and use MTCCFLset including 173 features in "mat", "xls" or "txt" formats.
 
 
-Filter-based Multi-task Cross-Corpus Feature Learning for Speech Emotion Recognition
+Filter-based Multi-task Cross-Corpus Feature Learning for Speech Emotion Recognition,
 Behzad Bakhtiari, Elham Kalhor, Seyed Hossein Ghafarian
 
 
