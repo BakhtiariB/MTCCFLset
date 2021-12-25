@@ -1,5 +1,5 @@
 %%%%%%%%%%%%       ---MTCCFLset---
 clc
 clear all
-fid=fopen('...\emob_Large.arff');
+fid=fopen('...\example.arff');
 MTCCFLset(fid);
