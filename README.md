@@ -3,8 +3,7 @@ Here, we propose the ready-to-use set of features, named MTCCFLset, as a cross-c
 First, extract features with openSilme [1] using emolarge config and save its result in a file with arff format.
 Then, run main.m (Matlab file) and use MTCCFLset including 173 features in "mat", "xls" or "txt" formats.
 
-Filter-based Multi-task Cross-Corpus Feature Learning for Speech Emotion Recognition,
-Behzad Bakhtiari, Elham Kalhor, Seyed Hossein Ghafarian
+FBakhtiari, B., Kalhor, E. & Ghafarian, S.H. Filter-based multi-task cross-corpus feature learning for speech emotion recognition. SIViP (2024). https://doi.org/10.1007/s11760-023-02977-2
 
 
 
